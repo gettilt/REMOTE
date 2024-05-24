@@ -1,0 +1,594 @@
+{
+    "AAPL": {
+        "chat_gpt": "Apple sees increased sales in Macs, iPads, and services as remote work and entertainment needs grow.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ADBE": {
+        "chat_gpt": "Adobe benefits from increased use of its creative and document management software by remote workers.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon benefits from a surge in online shopping for home essentials and entertainment options.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.bankrate.com/investing/top-streaming-service-stocks/",
+                "title": "Top Streaming Stocks To Consider For Your Portfolio",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1720515830352638217",
+                "text": "$IDGC, the company recently acquired a specialized AI and machine learning company https://t.co/1CrMk021rw. The public still hasn't picked up on this very valuable tech leader who is putting together the tech for the energy industry. The ask is only .0001 and PR coming. $AMZN $ZM",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2023-11-03T18:58:34Z"
+            },
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1722659479618236917",
+                "text": "$IDGC, Huge tweet just out about their acquisition of https://t.co/XoI2U5BKhm. They have a platform that they say could change the Healthcare industry. Ask .0002. $IDGC has been under accumulation all week. .0002 loading zone imo. $GME $AMC $AMZN $TSLA $HPNN $HTSC $KRTL $OPEN $ZM",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2023-11-09T16:56:40Z"
+            },
+            {
+                "url": "https://twitter.com/MTradess/status/1694134262759293239",
+                "text": "As technology is pushed into more sectors. No sector is safe. $AAPL has gone into banking. $AMZN is opening grocery stores. $MSFT re created things like $ZM as just an extra feature\u2026\u2026\u2026 shall I go on?",
+                "username": "MTradess",
+                "user_url": "https://twitter.com/MTradess",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1580356462785830919/jzzVqpOG_normal.jpg",
+                "date": "2023-08-22T23:47:38Z"
+            }
+        ],
+        "experts": []
+    },
+    "COST": {
+        "chat_gpt": "Costco benefits from increased consumer stockpiling of groceries and essentials for longer home stays.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DELL": {
+        "chat_gpt": "Dell Technologies benefits from increased demand for personal computers and IT solutions for remote work.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DIS": {
+        "chat_gpt": "Disney benefits from increased subscriptions to its Disney+ streaming service as families seek home entertainment.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/communication/media-stocks/",
+                "title": "Best Media Stocks to Buy in 2024: Top Media Companies",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.bankrate.com/investing/top-streaming-service-stocks/",
+                "title": "Top Streaming Stocks To Consider For Your Portfolio",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/entertainment-stocks/",
+                "title": "Compare Entertainment Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DOCU": {
+        "chat_gpt": "DocuSign benefits from the increased adoption of digital document management and e-signature solutions in remote work environments.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://bullishbears.com/work-from-home-stocks/",
+                "title": "Work From Home Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/the-next-zoom-3-remote-work-stocks-the-investors-shouldnt-ignore",
+                "title": "The Next Zoom? 3 Remote Work Stocks the Investors ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://financhill.com/blog/investing/best-work-from-home-stocks-to-buy",
+                "title": "11 Best Work From Home Stocks To Buy",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "ETSY": {
+        "chat_gpt": "Etsy benefits from increased consumer interest in personalized and home-crafted goods.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "HD": {
+        "chat_gpt": "Home Depot sees increased sales from home improvement projects as people spend more time at home.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=e58ms35N1kg",
+                "title": "Best Home Improvement Stock to Buy: Home Depot Stock vs ...",
+                "youtube_embed_url": "https://www.youtube.com/embed/e58ms35N1kg"
+            },
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-home-improvement-stocks",
+                "title": "Best Home Improvement Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://caps.fool.com/tag/home-improvement.aspx?source=itxsittst0000001",
+                "title": "Home Improvement (6)",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "LOW": {
+        "chat_gpt": "Lowe's benefits similarly to Home Depot, with increased demand for home improvement supplies.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=e58ms35N1kg",
+                "title": "Best Home Improvement Stock to Buy: Home Depot Stock vs ...",
+                "youtube_embed_url": "https://www.youtube.com/embed/e58ms35N1kg"
+            },
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-home-improvement-stocks",
+                "title": "Best Home Improvement Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://caps.fool.com/tag/home-improvement.aspx?source=itxsittst0000001",
+                "title": "Home Improvement (6)",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft benefits from higher usage of its Office 365 suite and Teams for remote work and collaboration.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://bullishbears.com/work-from-home-stocks/",
+                "title": "Work From Home Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1745885725231645051",
+                "text": "@miikeyfreshh $IDGC will soon be the hottest pct gainer on the OTC. They own sub companies https://t.co/XoI2U5BKhm and #UTXO technologies. They are industry #disruptors in the hottest new #tech. #AI, #ML, #deeplearning, #Bitcoinmining and #Nanocell Energy. Last trade .0001. $AI $MSFT $TSLA $ZM",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2024-01-12T19:09:28Z"
+            },
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1729356290055721284",
+                "text": "$IDGC ask .0002. Street target .15 imo. $AI and #MachineLearning platform developed to change the #Energy industry globally using an algorithm that continuously becomes more efficient as the client uses it. $MULN #Openai $TSLA $MSFT $AAL $SLV $HTSC $KRTL $IGEX $IDEX $ZM $OPEN $MP",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2023-11-28T04:27:24Z"
+            },
+            {
+                "url": "https://twitter.com/MTradess/status/1694134262759293239",
+                "text": "As technology is pushed into more sectors. No sector is safe. $AAPL has gone into banking. $AMZN is opening grocery stores. $MSFT re created things like $ZM as just an extra feature\u2026\u2026\u2026 shall I go on?",
+                "username": "MTradess",
+                "user_url": "https://twitter.com/MTradess",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1580356462785830919/jzzVqpOG_normal.jpg",
+                "date": "2023-08-22T23:47:38Z"
+            }
+        ],
+        "experts": []
+    },
+    "NFLX": {
+        "chat_gpt": "Netflix gains from higher demand for home entertainment as people spend more time indoors.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/communication/media-stocks/",
+                "title": "Best Media Stocks to Buy in 2024: Top Media Companies",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.bankrate.com/investing/top-streaming-service-stocks/",
+                "title": "Top Streaming Stocks To Consider For Your Portfolio",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://altindex.com/best-stocks/entertainment",
+                "title": "Best Entertainment Stocks to buy now April 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PTON": {
+        "chat_gpt": "Peloton benefits from higher demand for home fitness equipment and subscription services.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ROKU": {
+        "chat_gpt": "Roku benefits from increased demand for streaming devices as home entertainment becomes more central.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://altindex.com/best-stocks/entertainment",
+                "title": "Best Entertainment Stocks to buy now April 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/communication/entertainment-stocks/",
+                "title": "Best Entertainment Stocks to Buy in 2022",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://stockanalysis.com/stocks/industry/entertainment/",
+                "title": "A List of Stocks in the Entertainment Industry",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "TGT": {
+        "chat_gpt": "Target benefits from increased sales in home goods, electronics for entertainment, and groceries.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "WMT": {
+        "chat_gpt": "Walmart benefits from increased demand for groceries and home goods as more meals are eaten at home.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ZM": {
+        "chat_gpt": "Zoom Video Communications benefits directly as remote work increases, driving demand for video conferencing.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://bullishbears.com/work-from-home-stocks/",
+                "title": "Work From Home Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://financhill.com/blog/investing/best-work-from-home-stocks-to-buy",
+                "title": "11 Best Work From Home Stocks To Buy",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1698071976990969984",
+                "text": "The cloud sector is witnessing split performance YTD:  \n\n-- $FSLY leads with nearly 195% YTD returns.\n-- $CRM \u2019s 67% rise and $CFLT \u2019s 49% increase are also beating the $CLOU sector\u2019s 29% return. \n\n-- $ZM and $SNOW are underperforming.\n-- $AYX and $DOMO are among the biggest losers with losses in excess of -20%.",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2023-09-02T20:34:42Z"
+            },
+            {
+                "url": "https://twitter.com/therealhebrahim/status/1688221477504684032",
+                "text": "Even Zoom $ZM doesn't believe in remote work.\n\nBetter get your asses back to the office before some 17 year old Indian kid is doing your job better then you ever could, from his apartment in Bangalore for a third of your salary, no questions asked. https://t.co/0mNT1t3n0q",
+                "username": "therealhebrahim",
+                "user_url": "https://twitter.com/therealhebrahim",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1679514445213564928/qlxgjnzR_normal.jpg",
+                "date": "2023-08-06T16:12:20Z"
+            },
+            {
+                "url": "https://twitter.com/OptionsMike/status/1770028137687941238",
+                "text": "Good Morning!\n\nFutures flat\n\n$NVDA pt raised $1000 from $850 @ GS\n$NVDA pt raised $970 from $840 @ WFC\n\n$MMM u/g Overweight @ Barclays pt $126 from $111\n\n$TEAM int Sector Weight @ Keybanc\n\n$W int Buy @ Mizuho pt $72\n\n$ZM int Hold @ Jefferies pt $70\n\n$ACN int Buy @ Gugg pt $425",
+                "username": "OptionsMike",
+                "user_url": "https://twitter.com/OptionsMike",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1589655365779689475/5KgqXXTM_normal.jpg",
+                "date": "2024-03-19T10:02:48Z"
+            }
+        ],
+        "experts": []
+    },
+    "CMCSA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.bankrate.com/investing/top-streaming-service-stocks/",
+                "title": "Top Streaming Stocks To Consider For Your Portfolio",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/4-top-stock-picks-media-entertainment",
+                "title": "4 Top Stock Picks In Media and Entertainment",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1745885725231645051",
+                "text": "@miikeyfreshh $IDGC will soon be the hottest pct gainer on the OTC. They own sub companies https://t.co/XoI2U5BKhm and #UTXO technologies. They are industry #disruptors in the hottest new #tech. #AI, #ML, #deeplearning, #Bitcoinmining and #Nanocell Energy. Last trade .0001. $AI $MSFT $TSLA $ZM",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2024-01-12T19:09:28Z"
+            },
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1738655950565986421",
+                "text": "$KRTL. Ask .018. Up 140% in Friday's session. The company is becoming an #industry #disruptive supplier of #decocanIzed #Cocaextract. #Globally we are looking at a potential Trillion dollar opportunity imo. I spoke with the company and they said a big surprise is coming. $AI $ZM",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2023-12-23T20:20:55Z"
+            },
+            {
+                "url": "https://twitter.com/GoingGreenPicks/status/1736545408967741488",
+                "text": "$KRTL, Last trade . 015. The company is  #disruptive  to the #Food and #Beverage industry. The company is looking to become a major player in the technology, production and logistics to scale the sale #cocaextract globally. 10x gem imo. $T $F $TSLA $IGEX $AI $OPEN $ZM $MP",
+                "username": "GoingGreenPicks",
+                "user_url": "https://twitter.com/GoingGreenPicks",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1279448234574807041/q7ip8B4d_normal.jpg",
+                "date": "2023-12-18T00:34:23Z"
+            }
+        ],
+        "experts": []
+    },
+    "CRM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1698071976990969984",
+                "text": "The cloud sector is witnessing split performance YTD:  \n\n-- $FSLY leads with nearly 195% YTD returns.\n-- $CRM \u2019s 67% rise and $CFLT \u2019s 49% increase are also beating the $CLOU sector\u2019s 29% return. \n\n-- $ZM and $SNOW are underperforming.\n-- $AYX and $DOMO are among the biggest losers with losses in excess of -20%.",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2023-09-02T20:34:42Z"
+            },
+            {
+                "url": "https://twitter.com/SKaraahmetovic/status/1702634876489330748",
+                "text": "HSBC initiated much-anticipated research coverage of the US tech sector.\n\nBuy-rated CrowdStrike $CRWD, Oracle $ORCL, Salesforce $CRM, ServiceNow $NOW, Snowflake $SNOW, and Zoom $ZM; Hold on Microsoft $MSFT, Palantir $PLTR, and Twilio $TWLO; and Reduce on DocuSign $DOCU",
+                "username": "SKaraahmetovic",
+                "user_url": "https://twitter.com/SKaraahmetovic",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1702648428851851264/CBDi73D5_normal.jpg",
+                "date": "2023-09-15T10:46:02Z"
+            },
+            {
+                "url": "https://twitter.com/JSP0004/status/1690774132466581505",
+                "text": "@JoeYurillo Be causious with anything tech. They can easily drop 50%+ from here and take years to return, if ever. Look at the chart of $ZM as a reference point. I\u2019ve been in tech for 25 years - 2002 at $CRM  then 06\u2019 at $ADBE and lots of early stage. The industry is in depression",
+                "username": "JSP0004",
+                "user_url": "https://twitter.com/JSP0004",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1583198853276344320/SAOlaLKu_normal.jpg",
+                "date": "2023-08-13T17:15:40Z"
+            }
+        ],
+        "experts": []
+    },
+    "GOOGL": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/3-stocks-still-benefitting-from-the-shift-to-remote-work",
+                "title": "3 Stocks Still Benefitting From the Shift to Remote Work",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/40130-work-from-home",
+                "title": "Work From Home Stocks List for 2024 | NYSE, NASDAQ",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/BullStockInvest/status/1695904770257818045",
+                "text": "It's amazing to see how Catalysts can have HUGE impact on a companies revenue. What other events come to mind that triggered HUGE growth?\n$NVDA #Nvidia - GPT driving demand for AI Chips\n$PFE #Pfizer  - Vaccine\n$ZM #Zoom - Remote Work\n$GOOGL #Google - Gmail https://t.co/tJVqC12hMi",
+                "username": "BullStockInvest",
+                "user_url": "https://twitter.com/BullStockInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1693026613137481728/2iLd2UUG_normal.jpg",
+                "date": "2023-08-27T21:03:00Z"
+            },
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1753124449983856851",
+                "text": "\ud83d\udce3 BREAKING: $ZM Zoom Initiates Job Cuts Amid Tech Industry's Efficiency Drive $GOOGL $AMZN $MSFT $EBAY $ETSY \n\nKey Details:\n\n\ud83d\udccd Zoom announces reduction of approximately 150 jobs, nearly 2% of its total workforce, as part of strategic realignment.\n\n\ud83d\udccd Layoffs are selective, not company-wide, focusing on reshaping roles to enhance capabilities.\n\n\ud83d\udccd Zoom emphasizes continuous hiring in pivotal areas for 2024, including AI, sales, product development, and operations.\n\n\ud83d\udccd The decision reflects a broader trend in the tech sector, with over 100 companies laying off around 30,000 employees in early 2024.\n\n\ud83d\udccd High-profile tech layoffs include Microsoft's gaming division, Google's various departments, and Amazon's Prime Video and studios.\n\n\ud83d\udccd Zoom's popularity surged during the pandemic but faces challenges with the return to in-person work, impacting its stock value significantly.\n\n\ud83d\udccd Previous major job cut at Zoom in February last year, reducing 15% of its workforce due to economic uncertainties.\n\nContext/Background:\n\nFor those new to the topic, Zoom became an essential tool for remote communication during the Covid pandemic, experiencing a sharp increase in use and stock value. However, as normalcy resumes, the company, like many in the tech industry, is adjusting to post-pandemic realities and market demands.\n\nWhy This Matters:\n\n\ud83d\udc49 Zoom's job cuts signal ongoing adjustments within the tech sector to realign resources and strategies with current market conditions.\n\n\ud83d\udc49 The tech industry's wave of layoffs highlights a push for operational efficiency and strategic focus amidst economic uncertainties.\n\nMarket Insights:\n\n\ud83d\udcca Zoom's stock has seen a nearly 90% decline from its peak in October 2020, reflecting the changing dynamics of remote work trends and market expectations.\n\nImpact & Recommendations:\n\n\ud83d\udccd The tech industry's restructuring efforts may lead to increased innovation and leaner operations, potentially setting new standards for productivity and efficiency.\n\n\ud83d\udccd Observers should monitor further industry shifts and strategic realignments, especially in companies that thrived during the pandemic.\n\n\ud83d\udd04 Keep following for real-time updates, and don\u2019t forget to like, share, and turn on notifications for the latest in tech industry insights.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-02-01T18:33:35Z"
+            },
+            {
+                "url": "https://twitter.com/jika_io/status/1751995486024642602",
+                "text": "Upcoming #earnings schedule and projected fluctuations in the Metaverse industry. $IVRS $AMD $EA $GOOGL $MSFT $MTCH $PTC $QCOM $META $SNAP $AZPN $RBLX $TTWO $ANET $ZM $ADSK $NVDA $ANSS $GRMN $BMBL $U $CRM $YY $ADBE $MU",
+                "username": "jika_io",
+                "user_url": "https://twitter.com/jika_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587747967120941056/aQs7fTmF_normal.jpg",
+                "date": "2024-01-29T15:47:29Z"
+            }
+        ],
+        "experts": []
+    },
+    "META": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/tradesviz/status/1681293084083228673",
+                "text": "Some options flow Market summary stats for today from TradesViz's options flow dashbaord:\n\n1. Industry treemap\n2. Sector treemap\n3. Symbol Treemap\n4. Highest premiums\n\n$TSLA $ZM $AAPL $META $MRNA $DOCU\n\nHelping you get market ready every day - only on TradesViz trading journal!",
+                "username": "tradesviz",
+                "user_url": "https://twitter.com/tradesviz",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1272096058907127808/n4vUZiBy_normal.jpg",
+                "date": "2023-07-18T13:21:22Z"
+            },
+            {
+                "url": "https://twitter.com/jika_io/status/1751995486024642602",
+                "text": "Upcoming #earnings schedule and projected fluctuations in the Metaverse industry. $IVRS $AMD $EA $GOOGL $MSFT $MTCH $PTC $QCOM $META $SNAP $AZPN $RBLX $TTWO $ANET $ZM $ADSK $NVDA $ANSS $GRMN $BMBL $U $CRM $YY $ADBE $MU",
+                "username": "jika_io",
+                "user_url": "https://twitter.com/jika_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587747967120941056/aQs7fTmF_normal.jpg",
+                "date": "2024-01-29T15:47:29Z"
+            },
+            {
+                "url": "https://twitter.com/PubCoInsight/status/1678426602080727045",
+                "text": "\ud83d\udca5\ud83d\udd04 The winds of change blow through the U.S. auto industry! GM and Toyota transform the game with EV momentum \u26a1\ufe0f\ud83d\udd01 Can Ford join the revolution? #ShiftingGears #EVTransformation $ZM $PANW $NVDA $MLRT $IQST $AMZN $GOOGL $META $MSFT $SIVB $JPM #UBS $FRC $INX $BAC $XOM $CVX $VLO",
+                "username": "PubCoInsight",
+                "user_url": "https://twitter.com/PubCoInsight",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1456686135942340612/bLOAhL9X_normal.jpg",
+                "date": "2023-07-10T15:31:00Z"
+            }
+        ],
+        "experts": []
+    },
+    "MRNA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/kaitduffy/status/1693284570940989774",
+                "text": "If Covid environment comes back for winter thinking about:\n- Oil puts $CVX $XOM $OXY\n- Masks etc $APT $LAKE $OMI\n- Vaccines $PFE $MRNA $JNJ\n- Natural gas for cold weather $BOIL $SWN $LNG $APA\n- Remote work+ Dr. visits $TDOC $ZM \n- Rapid deflation or more stimulus inflation $SPY",
+                "username": "kaitduffy",
+                "user_url": "https://twitter.com/kaitduffy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1734375248785473536/8i4GHTug_normal.jpg",
+                "date": "2023-08-20T15:31:16Z"
+            },
+            {
+                "url": "https://twitter.com/TheRealNasa00/status/1695827188828799121",
+                "text": "$MRNA \n\nLike the falling wedge into the 8ema , if that holds assume 112.50-114.70-118.53 in play imo \n\nreject fri hod or break that 8ema-107.19-103.05 area back in play. \n\nSaw some news this weekend hence watching the sector and names like $zm $pfe etc. https://t.co/oOX0R3MCCG",
+                "username": "TheRealNasa00",
+                "user_url": "https://twitter.com/TheRealNasa00",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1523821114606116864/aU_1VV68_normal.png",
+                "date": "2023-08-27T15:54:43Z"
+            },
+            {
+                "url": "https://twitter.com/tradesviz/status/1681293084083228673",
+                "text": "Some options flow Market summary stats for today from TradesViz's options flow dashbaord:\n\n1. Industry treemap\n2. Sector treemap\n3. Symbol Treemap\n4. Highest premiums\n\n$TSLA $ZM $AAPL $META $MRNA $DOCU\n\nHelping you get market ready every day - only on TradesViz trading journal!",
+                "username": "tradesviz",
+                "user_url": "https://twitter.com/tradesviz",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1272096058907127808/n4vUZiBy_normal.jpg",
+                "date": "2023-07-18T13:21:22Z"
+            }
+        ],
+        "experts": []
+    },
+    "ARHS": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-home-improvement-stocks",
+                "title": "Best Home Improvement Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/02/the-next-home-depot-3-home-improvement-stocks-that-investors-shouldnt-ignore/",
+                "title": "The Next Home Depot? 3 Home Improvement Stocks That ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/originals/3-home-improvement-stocks-that-can-renovate-your-portfolio/",
+                "title": "3 home improvement stocks to renovate your portfolio",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BOX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/companies/hiring/remote/perks/employee-stock-purchase-plan",
+                "title": "Top Companies Offering Employee stock purchase plan ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "ESTC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/40130-work-from-home",
+                "title": "Work From Home Stocks List for 2024 | NYSE, NASDAQ",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FND": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-home-improvement-stocks",
+                "title": "Best Home Improvement Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/originals/3-home-improvement-stocks-that-can-renovate-your-portfolio/",
+                "title": "3 home improvement stocks to renovate your portfolio",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/7608-home-improvement-retailer",
+                "title": "Home Improvement Retailer Stocks List Ranked for",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "HVT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-home-improvement-stocks",
+                "title": "Best Home Improvement Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://stockanalysis.com/stocks/industry/home-improvement-retail/",
+                "title": "A List of Stocks in the Home Improvement Retail Industry",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
